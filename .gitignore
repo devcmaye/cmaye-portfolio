@@ -1,5 +1,5 @@
 # Flutter build files
-build/
+# build/
 .dart_tool/
 .packages
 pubspec.lock
